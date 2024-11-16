@@ -1,0 +1,6 @@
+litestar[standard]
+pydantic-settings
+pydantic
+uvicorn
+tortoise-orm[asyncpg]
+aerich
